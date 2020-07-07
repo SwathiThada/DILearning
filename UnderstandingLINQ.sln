@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DILearning", "DILearning\DILearning.csproj", "{06ED43F3-801D-4E40-929A-AE815F9A7471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{6C5F08EE-D436-4EE3-83C9-E15128D51C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06ED43F3-801D-4E40-929A-AE815F9A7471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ED43F3-801D-4E40-929A-AE815F9A7471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ED43F3-801D-4E40-929A-AE815F9A7471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ED43F3-801D-4E40-929A-AE815F9A7471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5F08EE-D436-4EE3-83C9-E15128D51C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5F08EE-D436-4EE3-83C9-E15128D51C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5F08EE-D436-4EE3-83C9-E15128D51C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5F08EE-D436-4EE3-83C9-E15128D51C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A98F75-6D57-45BC-BB24-3CEEE1276DC4}
+	EndGlobalSection
+EndGlobal
